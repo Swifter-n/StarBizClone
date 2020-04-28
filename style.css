@@ -1,0 +1,20 @@
+*{margin: 0;padding: 0}
+body{background: #bdc3c7; font-family: arial}
+header{overflow: hidden;background: #000;height: 110px; margin: auto;width: 1000px}
+header .headerLeft{float: left;width: 500px;}
+header .headerRight{float: right;width:400px;}
+header .headerLeft img{margin: 20px 20px 0}
+header .headerRight ul{list-style: none;}
+header .headerRight ul li a{color: #fff;text-decoration: none;float: left;padding: 0 8px;margin-top: 85px;font-weight: bold;}
+header .headerRight ul li a:hover{text-decoration: underline;}
+article{overflow: hidden;background: #ecf0f1;width: 1000px; height: 440px; margin: auto;}
+article .container{margin-top: 20px;}
+article .middleLeft{float: left; width: 470px;background: #fff;height: 400px;margin-left: 25px}
+article .middleRight{float: right; width: 470px;background: #fff;height: 400px;margin-right:25px; }
+article .middleLeft img{margin-top: 20px;margin-left: 20px}
+article .middleRight img{margin-top: 20px;margin-left: 20px;}
+article .Item{color: #fff;position: relative;top: -295px;left: 255px;width: 150px;}
+article h1{margin-bottom: 15px;}
+article p{color: #bdc3c7;}
+footer{margin: auto;width: 1000px;text-align: center;background: #000;height: 50px;line-height: 50px;color: #bdc3c7}
+footer img{width: 50px}
